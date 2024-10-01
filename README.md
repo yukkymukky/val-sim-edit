@@ -32,7 +32,7 @@ You can edit the values in Valorant Simulator by accessing its local IndexedDB. 
    ![Player Selection](https://i.imgur.com/Mzdo3Bm.png)
 
 8. **Expand Player Data**:  
-   Click the arrow next to the player's name. A panel should appear at the bottom. Expand it by clicking the arrow next to the number `0`. If you're in a later season, the number might be `1` or higher.
+   Check the checkbox next to the player's name. A panel should appear at the bottom. Expand it by clicking the arrow next to the number `0`. If you're in a later season, the number might be `1` or higher.
 
    ![Expand Player Data](https://i.imgur.com/6UIJdcK.png)
 
